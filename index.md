@@ -25,7 +25,7 @@ ili2fme is licensed under the LGPL (Lesser GNU Public License).
 ## System Requirements
 
 For the current version of ili2fme, you will need a JRE (Java Runtime Environment) installed on your system, version 1.6.0 or later.
-The JRE (Java Runtime Environment) can be downloaded for free from the Website http://www.java.com/.
+The JRE (Java Runtime Environment) can be downloaded for free from the [Java Website](https://www.java.com/).
 
 ## Installing ili2fme
 
