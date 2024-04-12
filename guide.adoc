@@ -37,7 +37,6 @@ https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/Quic
 |Format Type Identifier |ch.ehi.fme.Main
 |Long Format Name |Swiss INTERLIS (ili2fme)
 |Reader/Writer |Both
-|Licensing Level |Professional and above
 |Dependencies |None
 |Dataset Type |File
 |Feature Type |Class name
