@@ -67,7 +67,7 @@ ili2fme is free.
 
 ## Support
 
-- Ask other [GIS users](https://gis.stackexchange.com/questions/tagged/interlis) or the [FME community](https://knowledge.safe.com/topics/interlis.html).
+- Ask other [GIS users](https://gis.stackexchange.com/questions/tagged/interlis) or the [FME community](https://knowledge.safe.com/topics/interlis.html) or the [INTERLIS community](https://interlis.discourse.group/c/interlis-werkzeuge).
 - Get a support contract from a consultant.
 
 ## Tutorial
