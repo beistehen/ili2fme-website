@@ -14,7 +14,7 @@ formats. For more information about FME, please read the
 https://knowledge.safe.com/page/documentation/index.html[FME documentation]. 
 For more information about INTERLIS, go to https://www.interlis.ch/.
 
-An alternative guide can be found https://www.geo.admin.ch/de/geoinformation-schweiz/geobasisdaten/geodata-models.html[here].
+An alternative guide can be found https://www.geo.admin.ch/de/geoinformation-schweiz/geobasisdaten/geodata-models.html[here] (see Download section).
 
 Features read from an INTERLIS file consist of a series of attribute
 values. The attribute values may have no geometry. The attribute names
