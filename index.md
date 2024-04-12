@@ -32,8 +32,7 @@ The JRE (Java Runtime Environment) can be downloaded for free from the Website h
 Please note that Safe Software
 distributes the ili2fme format with FME as a convenience.
 
-The [Licensing options](https://www.safe.com/pricing/fme-desktop/) for 
-this format begin with FME Desktop Professional Edition.
+For FME Versions prior to FME 2023 a FME Desktop Professional Edition is needed. For the current FME Form / FME Flow Editions no restrictions apply.
 
 The methods below are only required, if you want to override the version of ili2fme 
 that is distributed by Safe Software.
