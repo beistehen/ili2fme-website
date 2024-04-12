@@ -18,7 +18,6 @@ Archived versions can be found [here](https://downloads.interlis.ch/ili2fme).
 
 ## Latest changes
 
-- switch msi to x64
-- ili2c-5.0.8
-- iox-ili-1.20.18
+- full support for INTERLIS 2.4
+- reader: fix error when reading models containing views (e. g. SIA405)
 
