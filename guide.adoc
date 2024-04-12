@@ -95,7 +95,7 @@ Then you can select an INTERLIS 1-datafile (.itf) and open it with FME (Data Ins
 Reading INTERLIS 2-data is essentially the same than reading INTERLIS 1-data with the following differences:
 
 - The data comes in XTF-files (and not ITF-files)
-- If your data models contain EXTENDS, FME will show all the data in a single "superstructure" â€“ feature type. You will have to use an AttributeFilter on XTF_CLASS to separate the different classes in Workbench. Since ili2fme-4.4.0, the data model may also be imported with a "subclass"-strategy rather than a `superclass`- strategy. When "subclass" is chosen, a feature type is created for each concrete extended class, whereas one feature type is created per parent class when "superclass" is chosen. 
+- If your data models contain EXTENDS, FME will show all the data in a single "superstructure" feature type. You will have to use an AttributeFilter on XTF_CLASS to separate the different classes in Workbench. Since ili2fme-4.4.0, the data model may also be imported with a "subclass"-strategy rather than a `superclass`- strategy. When "subclass" is chosen, a feature type is created for each concrete extended class, whereas one feature type is created per parent class when "superclass" is chosen. 
 
 === Writing INTERLIS 1-Data
 
