@@ -143,6 +143,6 @@ When you read and write INTERLIS data, read the sections on reading and writing.
 == INTERLIS-Models
 
 Normally ili2fme will read the required INTERLIS-Models as required by your data. Only when you "Import features types" (a FME Workbench menu item) you should specify a model file (a file with the extension ".ili"). 
-You can specify the places that ili2fme should look after the required models by setting the parameter MODEL_DIR.
-If a file folder doesn't contain a file named "ilisite.xml" or "ilimodels.xml", ili2fme will scan all files with an extension ".ili". If the folder contains multiple files with extension ".ili" that contain an INTERLIS models with the same name, you will get unexpected results.
-If a file folder contains a file named "ilisite.xml" or "ilimodels.xml", ili2fme will use the folder as an INTERLIS model repository. "ilimodels.xml" lists models and associates them with files. "ilisite.xml" contains links to other model repositories.
+You can specify the places where ili2fme should look for the required models by setting the parameter MODEL_DIR.
+If a folder doesn't contain a file named "ilisite.xml" or "ilimodels.xml", ili2fme will scan all files with an extension ".ili". If the folder contains multiple files with extension ".ili" that contain an INTERLIS model with the same name, you will get unexpected results.
+If a folder contains a file named "ilisite.xml" or "ilimodels.xml", ili2fme will use the folder as an INTERLIS model repository. "ilimodels.xml" lists models and associates them with files. "ilisite.xml" contains links to other model repositories. For more details regarding INTERLIS Model Repositories see the [documentation](https://geostandards-ch.github.io/doc_ilirepo/) (in german).
