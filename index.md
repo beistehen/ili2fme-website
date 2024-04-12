@@ -46,9 +46,6 @@ just double-click the msi file (This will install ili2fme into your current FME 
 To install ili2fme, choose a directory and extract the distribution file there.
 Copy the files and subdirectories of "${ili2fme}/FME Suite" to your FME directory.
 
-To use ili2fme with the FME Universal Viewer, FME requires you to set an
-environment variable: FME_VIEWER_THREADING=SINGLE.
-
 You may add your commonly used private Interlis models to the directory "${FME}/plugins/interlis2/ilimodels".
 
 ## Running ili2fme
