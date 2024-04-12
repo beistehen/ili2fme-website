@@ -85,7 +85,7 @@ It can be stored:
 - in a special model directory you specify
 - in the same directory than your data 
 
-Then you can select an INTERLIS 1-datafile (.itf) and open it with FME (Viewer, Workbench, Universal Translator) and use it.
+Then you can select an INTERLIS 1-datafile (.itf) and open it with FME (Data Inspector, Workbench, Quick Translator) and use it.
 
 - All the enumerations from the ITFs will be converted to texts (values).
 - If more than one geometry exists, the first geometry will be used as FME geometry, the other ones will be stored as Hex Well Known Binary in Attributes. 
