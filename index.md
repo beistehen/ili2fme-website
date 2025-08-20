@@ -34,17 +34,13 @@ distributes the ili2fme format with FME as a convenience.
 
 For FME Versions prior to FME 2023 a FME Desktop Professional Edition is needed. For the current FME Form / FME Flow Editions no restrictions apply.
 
-The methods below are only required if you want to override the version of ili2fme 
+The method below is only required if you want to override the version of ili2fme 
 that is distributed by Safe Software.
 
-### by using the MSI file
+### Copy files manually
 
-Just double-click the msi file. This will install ili2fme into your current FME software folder.
-
-### by using the ZIP file
-
-To install ili2fme, choose a directory and extract the distribution file there.
-Copy the files and subdirectories of "${ili2fme}/FME Suite" to your FME directory.
+To update ili2fme, choose a directory and extract the distribution file (.zip) there.
+Copy the files and subdirectories of "${ili2fme}/FME Suite" to your FME directory. Agree to override existing files with the same names.
 
 You may add your commonly used private Interlis models to the directory "${FME}/plugins/interlis2/ilimodels".
 
